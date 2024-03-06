@@ -6,7 +6,7 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+**O projeto de desenvolvimento web em tela tem como objetivo abordar a questão da gestão inadequada do tempo, que resulta em dificuldades para equilibrar as tarefas diárias e prioridades dos usuários. A solução proposta consiste em uma plataforma web intuitiva e altamente personalizável, projetada para permitir que os usuários organizem suas agendas de maneira eficiente. Essa plataforma oferecerá recursos como calendários interativos, listas de tarefas com priorização automática e lembretes personalizáveis, visando auxiliar os usuários na otimização de seu tempo e na realização de seus objetivos de forma mais eficaz**
 
 ## Integrantes
 
@@ -17,7 +17,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana de Nardin
 
 # Planejamento
 
