@@ -10,11 +10,11 @@ Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
-A gestão inadequada do tempo é uma questão urgente que afeta significativamente a vida pessoal e profissional de muitos indivíduos. A incapacidade de equilibrar eficientemente as demandas diárias, prioridades e prazos pode levar a altos níveis de estresse, ansiedade e redução da produtividade. Muitas vezes, as pessoas se encontram sobrecarregadas com uma lista interminável de tarefas, lutando para determinar por onde começar ou como distribuir seu tempo de forma eficaz.
+A gestão inadequada do tempo é um desafio que afeta profundamente a vida pessoal e profissional de muitos indivíduos. Quando não conseguimos equilibrar as demandas diárias, prioridades e prazos, isso pode resultar em altos níveis de estresse, ansiedade e queda na produtividade. Além disso, é notável que isso pode gerar uma sobrecarga com uma lista interminável de tarefas, lutando para decidir por onde começar ou como organizar nosso tempo de maneira eficiente.
 
-Essa falta de gerenciamento do tempo pode resultar em consequências negativas, como a procrastinação, o esgotamento e a insatisfação no trabalho. Além disso, pode prejudicar as relações interpessoais e a qualidade de vida geral do indivíduo. Portanto, é crucial abordar essa questão e fornecer ferramentas e recursos que ajudem as pessoas a melhorar sua gestão do tempo e alcançar um equilíbrio saudável entre trabalho, estudo e vida pessoal.
+Essa falta de gestão do tempo pode levar constantemente a procrastinação, exaustão e insatisfação na vida pessoal e no trabalho. Nesse sentido, não raro pode afetar negativamente os relacionamentos interpessoais e a qualidade geral de vida. Portanto, é crucial abordar essa questão e fornecer ferramentas para melhorar a administração do tempo, alcançando um equilíbrio saudável entre trabalho, estudo e vida pessoal.
 
-Diante desse cenário, surge a seguinte pergunta: **Qual é o impacto da gestão inadequada do tempo na produtividade e no bem-estar dos indivíduos?**
+Diante desse contexto, surge a seguinte pergunta: **Quais são os impactos da má gestão do tempo na produtividade e no bem-estar das pessoas?**
 
 ## Objetivos
 
