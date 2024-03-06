@@ -10,16 +10,11 @@ Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
+A gestão inadequada do tempo é uma questão urgente que afeta significativamente a vida pessoal e profissional de muitos indivíduos. A incapacidade de equilibrar eficientemente as demandas diárias, prioridades e prazos pode levar a altos níveis de estresse, ansiedade e redução da produtividade. Muitas vezes, as pessoas se encontram sobrecarregadas com uma lista interminável de tarefas, lutando para determinar por onde começar ou como distribuir seu tempo de forma eficaz.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
+Essa falta de gerenciamento do tempo pode resultar em consequências negativas, como a procrastinação, o esgotamento e a insatisfação no trabalho. Além disso, pode prejudicar as relações interpessoais e a qualidade de vida geral do indivíduo. Portanto, é crucial abordar essa questão e fornecer ferramentas e recursos que ajudem as pessoas a melhorar sua gestão do tempo e alcançar um equilíbrio saudável entre trabalho, estudo e vida pessoal.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Diante desse cenário, surge a seguinte pergunta: **Qual é o impacto da gestão inadequada do tempo na produtividade e no bem-estar dos indivíduos?**
 
 ## Objetivos
 
