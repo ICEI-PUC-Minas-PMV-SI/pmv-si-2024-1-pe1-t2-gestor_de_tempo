@@ -1,12 +1,12 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+Segundo a Agência Brasil, Você sabia que no mundo as pessoas passam cerca de 3 horas e 40 minutos, em média, utilizando aplicativos e que estes números vem crescendo desde 2017? E Você sabia que o brasileiro ocupa o terceiro lugar no ranking mundial de maior tempo de uso de aplicativos? Então, não seria maravilhoso se esse tempo fosse melhor aproveitado para aprendizado, desenvolvimento pessoal e organização de afazeres no dia-a-dia?
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+Um mercado milionário aguarda quem se propor a auxiliar na gestão de tempo individual. Por exemplo, o aplicativo Trello tinha, em 2019, 50 milhões de usuários. Esse número cresceu ainda mais em outubro do mesmo ano. E cresceu mais ainda no cenário pós-pandemia.
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
+O nosso objetivo aqui é ajudar as pessoas a serem mais organizadas e produtivas, que elas aproveitem aqueles 20 minutos no intervalo do almoço para aprender alguma coisa útil para si ou para suas famílias e amigos. A necessidade está posta como um bolo na mesa do mercado, e cabe a nós buscar a nossa fatia. 
 
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+A seguir, serão melhor descritos qual o problema exato que nós enxergamos, e a definição clara dos objetivos que queremos alcançar. Para além do cenário acima descrito, no qual estamos inseridos, há bons motivos para direcionar nossos esforços nessa direção. O desenvolvimento de um aplicativo útil, com interface agradável e baixa demanda de dados é de desenvolvimento relativamente fácil. Como os recursos da nossa empresa são limitados, entende-se que a melhor relação de potencial de lucro em relação ao esforço despendido se encontra no desenvolvimento de um aplicativo de Gestão de Tempo.
 
 ## Problema
 
