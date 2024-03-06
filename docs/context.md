@@ -2,11 +2,11 @@
 
 Segundo a Agência Brasil, Você sabia que no mundo as pessoas passam cerca de 3 horas e 40 minutos, em média, utilizando aplicativos e que estes números vem crescendo desde 2017? E Você sabia que o brasileiro ocupa o terceiro lugar no ranking mundial de maior tempo de uso de aplicativos? Então, não seria maravilhoso se esse tempo fosse melhor aproveitado para aprendizado, desenvolvimento pessoal e organização de afazeres no dia-a-dia?
 
-Um mercado milionário aguarda quem se propor a auxiliar na gestão de tempo individual. Por exemplo, o aplicativo Trello tinha, em 2019, 50 milhões de usuários. Esse número cresceu ainda mais em outubro do mesmo ano. E cresceu mais ainda no cenário pós-pandemia.
+Um mercado milionário aguarda quem se propor a auxiliar na gestão de tempo individual. Por exemplo, o aplicativo Trello cresceu em 2019, de 35 para 50 milhões de usuários. E cresceu mais ainda no cenário pós-pandemia. E de lá para cá cresceu ainda mais no cenário pós-pandemia.
 
-O nosso objetivo aqui é ajudar as pessoas a serem mais organizadas e produtivas, que elas aproveitem aqueles 20 minutos no intervalo do almoço para aprender alguma coisa útil para si ou para suas famílias e amigos. A necessidade está posta como um bolo na mesa do mercado, e cabe a nós buscar a nossa fatia. 
+O nosso objetivo aqui é ajudar as pessoas a serem mais organizadas e produtivas, que elas aproveitem aqueles 20 minutos no intervalo do almoço para aprender alguma coisa útil para si ou para sua família e seus amigos. A necessidade está posta como um bolo na mesa do mercado, e cabe a nós buscar a nossa fatia. 
 
-A seguir, serão melhor descritos qual o problema exato que nós enxergamos, e a definição clara dos objetivos que queremos alcançar. Para além do cenário acima descrito, no qual estamos inseridos, há bons motivos para direcionar nossos esforços nessa direção. O desenvolvimento de um aplicativo útil, com interface agradável e baixa demanda de dados é de desenvolvimento relativamente fácil. Como os recursos da nossa empresa são limitados, entende-se que a melhor relação de potencial de lucro em relação ao esforço despendido se encontra no desenvolvimento de um aplicativo de Gestão de Tempo.
+A seguir, serão melhor descritos qual o problema exato que nós enxergamos, e a definição clara dos objetivos que queremos alcançar. Para além do cenário acima descrito, no qual estamos inseridos, há bons motivos para nisso direcionar nossos esforços. O desenvolvimento de um aplicativo útil, com interface agradável e baixa demanda de dados é de desenvolvimento relativamente fácil e rápido. Como os recursos da nossa empresa são limitados, entende-se que a melhor relação de potencial de lucro em relação ao esforço despendido se encontra no desenvolvimento de um aplicativo de Gestão de Tempo.
 
 ## Problema
 
