@@ -18,12 +18,29 @@ Diante desse contexto, surge a seguinte pergunta: **Quais são os impactos da m�
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Nosso objetivo e trazer soluções aos desafios relacionados a gestão de tempo, através de um aplicativo inovador. Para alcançar esse objetivo principal, o projeto se desdobra em alguns objetivos específicos que incluem: 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+1 - Análise de Necessidades: 
+
+Identificar e compreender as principais dificuldades enfrentadas pelas pessoas na gestão de tempo. 
+
+2 - Definição de Funcionalidades: 
+
+Estabelecer as funcionalidades essenciais do aplicativo com base nas necessidades identificadas. 
+
+3 - Desenvolvimento de Protótipo: 
+
+Criar um protótipo funcional do aplicativo para visualizar a interface e testar a usabilidade. 
+
+4 - Aprimoramento com Feedback: 
+
+Iterar no design e nas funcionalidades do aplicativo com base no feedback dos usuários. 
+
+5 - Avaliação de Impacto: 
+
+Coletar dados após o lançamento para avaliar o impacto do aplicativo na gestão de tempo dos usuários. 
+
+Ao alcançar esses objetivos específicos, o trabalho visa contribuir significativamente para a resolução dos problemas relacionados à gestão de tempo, proporcionando uma ferramenta prática e eficaz para otimizar o uso do tempo pessoal e profissional. 
 
 ## Justificativa
 
