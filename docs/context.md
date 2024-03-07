@@ -28,8 +28,11 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 ## Justificativa
 
 A motivação por trás da escolha do tema de Gestão de Tempo está fundamentada na necessidade global de otimizar o uso do tempo diário. Os números apresentados pela Agência Brasil revelam não apenas uma mudança de hábito, mas também a oportunidade de redirecionar o foco para o aprendizado, desenvolvimento pessoal e organização eficaz. A constatação de que o brasileiro está entre os líderes mundiais de tempo dedicado a aplicativos destaca a urgência de abordagens que transcendam o entretenimento, promovendo a maximização do potencial diário.
+
 O projeto tem como função desenvolver um aplicativo de Gestão de Tempo eficiente e intuitivo, indo além da mera organização de tarefas. A proposta é criar uma ferramenta que motive os usuários a buscar aprendizado durante os momentos ociosos, transformando pausas breves em oportunidades valiosas de crescimento pessoal. A visão é proporcionar uma experiência que transcenda a gestão de tarefas, abraçando a ideia de transformar o tempo em um aliado do desenvolvimento pessoal.
+
 O público-alvo desta obra engloba indivíduos que buscam uma vida mais organizada e produtiva, especialmente aqueles que já demonstraram interesse em aplicativos de gestão de tarefas. Profissionais, estudantes e empreendedores formam uma parcela significativa desse grupo, todos compartilhando o desejo comum de aproveitar cada minuto disponível de maneira mais eficaz, convertendo momentos de inatividade em oportunidades de aprendizado e crescimento pessoal.
+
 A base informativa para este projeto está ancorada em dados fornecidos pela Agência Brasil, que evidenciam a crescente tendência global de uso de aplicativos. Além disso, informações sobre o sucesso do aplicativo Trello em 2019, com seus 50 milhões de usuários, e seu crescimento pós-pandemia oferecem uma perspectiva realista sobre o potencial desse mercado. A análise desses dados proporciona uma sólida estrutura para a tomada de decisões estratégicas durante o desenvolvimento do aplicativo de Gestão de Tempo, reforçando a relevância e a viabilidade do projeto.
 
 ## Público-Alvo
