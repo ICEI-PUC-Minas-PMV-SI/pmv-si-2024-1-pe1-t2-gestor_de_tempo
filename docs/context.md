@@ -18,29 +18,10 @@ Diante desse contexto, surge a seguinte pergunta: **Quais são os impactos da m�
 
 ## Objetivos
 
-Nosso objetivo e trazer soluções aos desafios relacionados a gestão de tempo, através de um aplicativo inovador. Para alcançar esse objetivo principal, o projeto se desdobra em alguns objetivos específicos que incluem: 
+Nosso objetivo e trazer soluções aos desafios relacionados a gestão de tempo, por meio de um aplicativo simples e inovador. 
 
-1 - Análise de Necessidades: 
+Desta forma, o aplicativo apresenta um método de como as pessoas podem administrar melhor o seu tempo, tendo um aproveitamento satisfatório na divisão e conclusão das tarefas, gerando mais tempo de qualidade para os usuários. 
 
-Identificar e compreender as principais dificuldades enfrentadas pelas pessoas na gestão de tempo. 
-
-2 - Definição de Funcionalidades: 
-
-Estabelecer as funcionalidades essenciais do aplicativo com base nas necessidades identificadas. 
-
-3 - Desenvolvimento de Protótipo: 
-
-Criar um protótipo funcional do aplicativo para visualizar a interface e testar a usabilidade. 
-
-4 - Aprimoramento com Feedback: 
-
-Iterar no design e nas funcionalidades do aplicativo com base no feedback dos usuários. 
-
-5 - Avaliação de Impacto: 
-
-Coletar dados após o lançamento para avaliar o impacto do aplicativo na gestão de tempo dos usuários. 
-
-Ao alcançar esses objetivos específicos, o trabalho visa contribuir significativamente para a resolução dos problemas relacionados à gestão de tempo, proporcionando uma ferramenta prática e eficaz para otimizar o uso do tempo pessoal e profissional. 
 
 ## Justificativa
 
