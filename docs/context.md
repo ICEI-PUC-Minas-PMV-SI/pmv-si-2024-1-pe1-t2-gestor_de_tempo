@@ -18,10 +18,7 @@ Diante desse contexto, surge a seguinte pergunta: **Quais são os impactos da m�
 
 ## Objetivos
 
-Nosso objetivo e trazer soluções aos desafios relacionados a gestão de tempo, por meio de um aplicativo simples e inovador. 
-
-Desta forma, o aplicativo apresenta um método de como as pessoas podem administrar melhor o seu tempo, tendo um aproveitamento satisfatório na divisão e conclusão das tarefas, gerando mais tempo de qualidade para os usuários. 
-
+O objetivo deste projeto é oferecer soluções eficazes para os desafios relacionados à gestão do tempo por meio de um aplicativo intuitivo e acessível. O aplicativo visa fornecer aos usuários métodos práticos para gerenciar suas tarefas de forma eficiente, priorizando atividades importantes e maximizando o tempo disponível para o crescimento pessoal e profissional.
 
 ## Justificativa
 
