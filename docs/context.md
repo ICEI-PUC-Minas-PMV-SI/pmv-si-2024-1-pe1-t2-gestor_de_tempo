@@ -10,9 +10,9 @@ A seguir, serão melhor descritos qual o problema exato que nós enxergamos, e a
 
 ## Problema
 
-A gestão inadequada do tempo é um desafio que afeta profundamente a vida pessoal e profissional de muitos indivíduos. Quando não conseguimos equilibrar as demandas diárias, prioridades e prazos, isso pode resultar em altos níveis de estresse, ansiedade e queda na produtividade. Além disso, é notável que isso pode gerar uma sobrecarga com uma lista interminável de tarefas, lutando para decidir por onde começar ou como organizar nosso tempo de maneira eficiente.
+A gestão inadequada do tempo é um desafio significativo que afeta a vida pessoal e profissional de muitos indivíduos. Estudos mostram que a falta de organização pode levar a altos níveis de estresse, ansiedade e redução da produtividade. Além disso, a sobrecarga de tarefas e a dificuldade em estabelecer prioridades podem levar à procrastinação e à insatisfação geral com a vida.
 
-Essa falta de gestão do tempo pode levar constantemente a procrastinação, exaustão e insatisfação na vida pessoal e no trabalho. Nesse sentido, não raro pode afetar negativamente os relacionamentos interpessoais e a qualidade geral de vida. Portanto, é crucial abordar essa questão e fornecer ferramentas para melhorar a administração do tempo, alcançando um equilíbrio saudável entre trabalho, estudo e vida pessoal.
+A má gestão do tempo não apenas impacta o desempenho individual, mas também pode afetar os relacionamentos interpessoais e a qualidade de vida como um todo. É essencial, portanto, abordar essa questão e fornecer ferramentas práticas que ajudem as pessoas a administrar melhor seu tempo e alcançar um equilíbrio saudável entre as diferentes áreas de suas vidas.
 
 Diante desse contexto, surge a seguinte pergunta: **Quais são os impactos da má gestão do tempo na produtividade e no bem-estar das pessoas?**
 
