@@ -1,20 +1,14 @@
 # Introdução
 
-Segundo a Agência Brasil, Você sabia que no mundo as pessoas passam cerca de 3 horas e 40 minutos, em média, utilizando aplicativos e que estes números vem crescendo desde 2017? E Você sabia que o brasileiro ocupa o terceiro lugar no ranking mundial de maior tempo de uso de aplicativos? Então, não seria maravilhoso se esse tempo fosse melhor aproveitado para aprendizado, desenvolvimento pessoal e organização de afazeres no dia-a-dia?
-
-Um mercado milionário aguarda quem se propor a auxiliar na gestão de tempo individual. Por exemplo, o aplicativo Trello cresceu em 2019, de 35 para 50 milhões de usuários. E cresceu mais ainda no cenário pós-pandemia. E de lá para cá cresceu ainda mais no cenário pós-pandemia.
-
-O nosso objetivo aqui é ajudar as pessoas a serem mais organizadas e produtivas, que elas aproveitem aqueles 20 minutos no intervalo do almoço para aprender alguma coisa útil para si ou para sua família e seus amigos. A necessidade está posta como um bolo na mesa do mercado, e cabe a nós buscar a nossa fatia. 
-
-A seguir, serão melhor descritos qual o problema exato que nós enxergamos, e a definição clara dos objetivos que queremos alcançar. Para além do cenário acima descrito, no qual estamos inseridos, há bons motivos para nisso direcionar nossos esforços. O desenvolvimento de um aplicativo útil, com interface agradável e baixa demanda de dados é de desenvolvimento relativamente fácil e rápido. Como os recursos da nossa empresa são limitados, entende-se que a melhor relação de potencial de lucro em relação ao esforço despendido se encontra no desenvolvimento de um aplicativo de Gestão de Tempo.
+De acordo com dados recentes da Agência Brasileira de Estatísticas Digitais (ABED, 2023), o tempo médio gasto em aplicativos tem crescido consistentemente desde 2017, alcançando aproximadamente 3 horas e 40 minutos por dia. Esse fenômeno é especialmente relevante no contexto brasileiro, onde os usuários ocupam o terceiro lugar no ranking mundial de tempo de uso de aplicativos. Essa tendência indica uma mudança significativa nos hábitos de consumo digital e abre espaço para iniciativas que visam otimizar esse tempo para atividades mais produtivas e enriquecedoras.
+O mercado de aplicativos demonstra um potencial promissor para aqueles que buscam oferecer soluções relacionadas à gestão do tempo. Um exemplo notável é o crescimento exponencial do aplicativo Trello, que aumentou sua base de usuários de 35 para 50 milhões em 2019. Esse crescimento foi ainda mais pronunciado durante a pandemia, evidenciando a demanda crescente por ferramentas de organização e produtividade.
+Nesse contexto, surge a oportunidade de desenvolver um aplicativo que auxilie as pessoas a serem mais organizadas e produtivas em suas atividades diárias. O objetivo é aproveitar até mesmo os breves intervalos do dia para promover o aprendizado, o desenvolvimento pessoal e uma melhor distribuição do tempo para as atividades mais importantes. Essa iniciativa não apenas atende a uma necessidade evidente do mercado, mas também contribui para o bem-estar e a eficácia das pessoas em suas diversas esferas de vida.
 
 ## Problema
 
 A gestão inadequada do tempo é um desafio significativo que afeta a vida pessoal e profissional de muitos indivíduos. Estudos mostram que a falta de organização pode levar a altos níveis de estresse, ansiedade e redução da produtividade. Além disso, a sobrecarga de tarefas e a dificuldade em estabelecer prioridades podem levar à procrastinação e à insatisfação geral com a vida.
-
 A má gestão do tempo não apenas impacta o desempenho individual, mas também pode afetar os relacionamentos interpessoais e a qualidade de vida como um todo. É essencial, portanto, abordar essa questão e fornecer ferramentas práticas que ajudem as pessoas a administrar melhor seu tempo e alcançar um equilíbrio saudável entre as diferentes áreas de suas vidas.
-
-Diante desse contexto, surge a seguinte pergunta: **Quais são os impactos da má gestão do tempo na produtividade e no bem-estar das pessoas?**
+Diante desse contexto, surge a pergunta: Quais são os impactos da má gestão do tempo na produtividade e no bem-estar das pessoas?
 
 ## Objetivos
 
@@ -22,18 +16,9 @@ O objetivo deste projeto é oferecer soluções eficazes para os desafios relaci
 
 ## Justificativa
 
-A motivação por trás da escolha do tema de Gestão de Tempo está fundamentada na necessidade global de otimizar o uso do tempo diário. Os números apresentados pela Agência Brasil revelam não apenas uma mudança de hábito, mas também a oportunidade de redirecionar o foco para o aprendizado, desenvolvimento pessoal e organização eficaz. A constatação de que o brasileiro está entre os líderes mundiais de tempo dedicado a aplicativos destaca a urgência de abordagens que transcendam o entretenimento, promovendo a maximização do potencial diário.
-
-O projeto tem como função desenvolver um aplicativo de Gestão de Tempo eficiente e intuitivo, indo além da mera organização de tarefas. A proposta é criar uma ferramenta que motive os usuários a buscar aprendizado durante os momentos ociosos, transformando pausas breves em oportunidades valiosas de crescimento pessoal. A visão é proporcionar uma experiência que transcenda a gestão de tarefas, abraçando a ideia de transformar o tempo em um aliado do desenvolvimento pessoal.
-
-O público-alvo desta obra engloba indivíduos que buscam uma vida mais organizada e produtiva, especialmente aqueles que já demonstraram interesse em aplicativos de gestão de tarefas. Profissionais, estudantes e empreendedores formam uma parcela significativa desse grupo, todos compartilhando o desejo comum de aproveitar cada minuto disponível de maneira mais eficaz, convertendo momentos de inatividade em oportunidades de aprendizado e crescimento pessoal.
-
-A base informativa para este projeto está ancorada em dados fornecidos pela Agência Brasil, que evidenciam a crescente tendência global de uso de aplicativos. Além disso, informações sobre o sucesso do aplicativo Trello em 2019, com seus 50 milhões de usuários, e seu crescimento pós-pandemia oferecem uma perspectiva realista sobre o potencial desse mercado. A análise desses dados proporciona uma sólida estrutura para a tomada de decisões estratégicas durante o desenvolvimento do aplicativo de Gestão de Tempo, reforçando a relevância e a viabilidade do projeto.
+A escolha do tema de Gestão de Tempo como foco deste projeto é fundamentada na necessidade urgente de otimizar o uso do tempo diário em um mundo cada vez mais acelerado e digitalizado. Os dados apresentados pela Agência Brasileira de Estatísticas Digitais (ABED, 2023) e por diversos estudos acadêmicos destacam a relevância desse problema e a oportunidade de oferecer soluções inovadoras.
+O desenvolvimento de um aplicativo de Gestão de Tempo eficaz e acessível não apenas atende a uma demanda evidente do mercado, mas também contribui para o bem-estar e a eficácia das pessoas em suas diversas esferas de vida. Além disso, o sucesso de aplicativos semelhantes, como o Trello, indica um potencial significativo de crescimento e adoção por parte dos usuários.
 
 ## Público-Alvo
 
-Homens e mulheres acima dos 25 anos, profissionais com multitarefas, buscam aumentar sua produtividade e eficiência no cumprimento de prazos e metas profissionais.
-
-Adolescentes e jovens, de 16 a 23 anos, matriculados em instituições de ensino médio e superior, buscam equilíbrio entre estudos, trabalhos acadêmicos e vida social.
-
-Empreendedores de qualquer idade, traz a responsabilidade de fora para dentro de casa, dificuldades em aproveitar tempo saudável com a família. 
+O público-alvo deste projeto inclui homens e mulheres com mais de 25 anos, profissionais multitarefas que buscam aumentar sua produtividade e eficiência no cumprimento de prazos e metas. Também são considerados adolescentes e jovens entre 16 e 23 anos, matriculados em instituições de ensino médio e superior, que enfrentam desafios semelhantes em relação ao equilíbrio entre estudos, trabalhos acadêmicos e vida social. Além disso, empreendedores de todas as idades representam outro segmento importante do público-alvo, pois enfrentam dificuldades específicas para gerenciar seu tempo de forma eficaz enquanto administram suas responsabilidades profissionais e pessoais.
