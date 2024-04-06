@@ -8,7 +8,10 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+![4](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-gestor_de_tempo/assets/136640488/52020a3a-d059-47b8-abea-fe94dc6feea2)
+![3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-gestor_de_tempo/assets/136640488/74470ffd-be96-4044-882f-956b8e513bfa)
+![2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-gestor_de_tempo/assets/136640488/d5c6a29c-5425-4806-83fc-ebfd0780d95e)
+![1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-gestor_de_tempo/assets/136640488/617a9adb-ac78-4236-a98b-39012c7590d1)
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
