@@ -1,18 +1,10 @@
 # Template padrão do site
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
-
-Explique as guias de estilo utilizadas no seu projeto.
-
 ## Design
-
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
-
+Nossa aplicação valoriza simplicidade e equilíbrio. O design minimalista destaca nosso logotipo no login. Optamos por uma interface amigável que facilite o acesso, com opções claras para login, recuperação de senha e cadastro. Optamos por uma paleta de cores neutras, proporcionando uma experiência tranquila e equilibrada, refletindo nosso objetivo de trazer controle e tranquilidade para nossos usuários e reforçar nosso compromisso  com a intuitividade digital. Desse modo, ferecemos uma experiência harmoniosa para todos os usuários.
 
 ## Cores
-
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
-
+A seleção cromática de nossa aplicação é uma manifestação do nosso objetivo em proporcionar uma experiência serena e harmoniosa. Foi adotada uma paleta de cores sóbrias, abrangendo matizes como o cinza, o branco, o prata e o azul. Estas tonalidades foram criteriosamente escolhidas para evocar tranquilidade e firmeza, a medida que salienta nosso compromisso com a gestão do tempo. O propósito desta escolha é estabelecer um ambiente visualmente integrado e convidativo, alinhado com a essência intuitiva de nossa plataforma.
 
 ## Tipografia
 
