@@ -6,6 +6,8 @@ Nossa aplicação valoriza simplicidade e equilíbrio. O design minimalista dest
 ## Cores
 A seleção cromática de nossa aplicação é uma manifestação do nosso objetivo em proporcionar uma experiência serena e harmoniosa. Foi adotada uma paleta de cores sóbrias, abrangendo matizes como o cinza, o branco, o prata e o azul. Estas tonalidades foram criteriosamente escolhidas com a finalidade de despertar a tranquilidade e firmeza, a medida que salienta nosso compromisso com a gestão do tempo. O propósito desta escolha é estabelecer um ambiente visualmente integrado e convidativo, alinhado com a essência intuitiva de nossa plataforma.
 
+![cores1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-gestor_de_tempo/assets/149181399/63a7b63e-12a4-4665-858a-d9da22e247ed)
+
 
 ## Tipografia
 
