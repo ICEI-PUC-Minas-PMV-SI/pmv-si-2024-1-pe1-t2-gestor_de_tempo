@@ -11,7 +11,9 @@ A seleção cromática de nossa aplicação é uma manifestação do nosso objet
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.)
+Fonte utilizada foi Open Sans
+
+![tipografia](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-gestor_de_tempo/assets/149181399/46aba52a-0723-4013-b6df-4d4fe6fb0c34)
 
 
 ## Iconografia
