@@ -1,0 +1,31 @@
+#barraazul {
+    background-color: blue;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+
+}
+#foto{
+    display: flex;
+    justify-content: center;
+}
+#mulherfundo{
+    height: 300px;
+    
+}
+
+#trespontos{
+    width: 100px;
+}
+
+#logo {
+    width: 100px;
+}
+
+#engrenagem {
+    width: 100px;
+}
+
+h1 {
+    border-left: 20vw;
+}
