@@ -4,11 +4,13 @@
 Nossa aplicação valoriza simplicidade e equilíbrio. O design minimalista destaca nosso logotipo no login. Optamos por uma interface amigável que facilite o acesso, com opções claras para login, recuperação de senha e cadastro. Optamos por uma paleta de cores neutras, proporcionando uma experiência tranquila e equilibrada, refletindo nosso objetivo de trazer controle e tranquilidade para nossos usuários e reforçar nosso compromisso  com a intuitividade digital. Desse modo, ferecemos uma experiência harmoniosa para todos os usuários.
 
 ## Cores
-A seleção cromática de nossa aplicação é uma manifestação do nosso objetivo em proporcionar uma experiência serena e harmoniosa. Foi adotada uma paleta de cores sóbrias, abrangendo matizes como o cinza, o branco, o prata e o azul. Estas tonalidades foram criteriosamente escolhidas para evocar tranquilidade e firmeza, a medida que salienta nosso compromisso com a gestão do tempo. O propósito desta escolha é estabelecer um ambiente visualmente integrado e convidativo, alinhado com a essência intuitiva de nossa plataforma.
+A seleção cromática de nossa aplicação é uma manifestação do nosso objetivo em proporcionar uma experiência serena e harmoniosa. Foi adotada uma paleta de cores sóbrias, abrangendo matizes como o cinza, o branco, o prata e o azul. Estas tonalidades foram criteriosamente escolhidas com a finalidade de despertar a tranquilidade e firmeza, a medida que salienta nosso compromisso com a gestão do tempo. O propósito desta escolha é estabelecer um ambiente visualmente integrado e convidativo, alinhado com a essência intuitiva de nossa plataforma.
+
+![cores](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-gestor_de_tempo/assets/149181399/77cfcf5c-34f5-4bd5-90cf-7e24e96f7194
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.)
 
 
 ## Iconografia
