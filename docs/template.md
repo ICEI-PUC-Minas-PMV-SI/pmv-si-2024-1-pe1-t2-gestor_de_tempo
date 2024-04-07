@@ -6,7 +6,7 @@ Nossa aplicação valoriza simplicidade e equilíbrio. O design minimalista dest
 ## Cores
 A seleção cromática de nossa aplicação é uma manifestação do nosso objetivo em proporcionar uma experiência serena e harmoniosa. Foi adotada uma paleta de cores sóbrias, abrangendo matizes como o cinza, o branco, o prata e o azul. Estas tonalidades foram criteriosamente escolhidas com a finalidade de despertar a tranquilidade e firmeza, a medida que salienta nosso compromisso com a gestão do tempo. O propósito desta escolha é estabelecer um ambiente visualmente integrado e convidativo, alinhado com a essência intuitiva de nossa plataforma.
 
-![cores](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-gestor_de_tempo/assets/149181399/77cfcf5c-34f5-4bd5-90cf-7e24e96f7194
+![cores1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-gestor_de_tempo/issues/20#issue-2230009129)
 
 ## Tipografia
 
@@ -14,11 +14,8 @@ Apresente as fontes que serão utilizadas e sua função no site. As principais 
 
 
 ## Iconografia
+![ICONES1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-gestor_de_tempo/assets/149181399/e98036c0-04b1-4011-a547-04d011352da8)
 
-Defina os ícones que serão utilizados e suas respectivas funções.
-
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
 
 
 > **Links Úteis**:
