@@ -2,6 +2,8 @@
 
 Inclua todas as referências (livros, artigos, sites, etc) utilizadas no desenvolvimento do trabalho.
 
+SYDLE. Matriz GUT: o que é e como funciona. Disponível em: https://www.sydle.com/br/blog/matriz-gut-o-que-e-e-como-funciona-veja-exemplos-62d05b64675a2377260936ae. Acesso em: [11/04/2024]
+
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/referencias/)
 
