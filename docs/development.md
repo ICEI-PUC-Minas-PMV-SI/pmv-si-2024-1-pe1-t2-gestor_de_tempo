@@ -51,3 +51,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | E-mail         | Texto             | E-mail do usuário                       | jav@gmail.com                                 |
 | Senha  | Numero (Inteiro)  | Senha do usuário | 112345678**                                             |
 
+## Tarefa
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Descrição da tarefa             | Texto  | Identificador da tarefa           | Lavar roupa                                              |
+| Gravidade           | número (inteiro) de 1 a 5            | gravidade da tarefa                        | 1                                  |
+| Urgência         | número (inteiro) de 1 a 5             |  urgência da tarefa                       | 1                                |
+| Tendência  | Numero (Inteiro) de 1 a 5 | tendência da tarefa | 1                                             |
+
+
