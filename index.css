@@ -21,16 +21,19 @@ nav {
 #trespontos{
     width: 100px;
     margin-left: auto;
+    cursor: pointer;
 }
 
 #logo {
     width: 100px;
     margin: auto;
+    cursor: pointer;
 }
 
 #engrenagem {
     width: 100px;
     margin-right: auto;
+    cursor: pointer;
 }
 
 main {
@@ -68,4 +71,23 @@ h1 {
 main > p {
     font-family: poppins;
     margin: 30px;
+}
+
+#dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #22007C;
+    padding: 10px;
+}
+
+#dropdown-menu a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 5px 0;
+    font-size: 30px;
+}
+
+#trespontos:hover #dropdown-menu {
+    display: block;
 }
