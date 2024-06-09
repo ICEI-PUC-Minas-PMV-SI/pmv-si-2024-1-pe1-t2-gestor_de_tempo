@@ -49,12 +49,12 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*CT01 - Criar conta parte 1*                                         |
 |---|---|
-|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
+|Requisito Associado | RF-002 – A aplicação deve permitir que os usuários se cadastrem.|
 |Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
 
 |*Caso de Teste*                                 |*CT02 - Criar conta parte 2*                                        |
 |---|---|
-|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
+|Requisito Associado | RF-003 - A aplicação deve fornecer um sistema de autenticação seguro, permitindo que os usuários acessem suas contas por meio de um processo de login.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
 
@@ -104,37 +104,50 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando.
+Cenário 1: Você é uma pessoa que deseja criar uma conta no site do gestor de tempo.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 27.87 segundos                  |
-| 2       | SIM             | 5                    | 17.11 segundos                  |
-| 3       | SIM             | 5                    | 39.09 segundos                  |
+| 1       | SIM             | 5                    | 27.9 segundos                  |
+| 2       | SIM             | 4                    | 39.1 segundos                  |
+| 3       | SIM             | 4                    | 48.9 segundos                  |
 |  |  |  |  |
-| **Média**     | 100%           | 5                | 28.02 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
+| **Média**     | 100%           | 4,33                | 38.63 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 10.7 segundos |
 
 
-    Comentários dos usuários: Achei o site muito bom e intuitivo. 
-    Não tive dificuldades e acho que ficou bem intuitivo.
+    Comentários dos usuários: Site pouco intuitivo. Falta um botão de cadastre-se. 
 
 
-Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço.
+Cenário 2: Você é uma pessoa que deseja logar em sua conta no site do gestor de tempo.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |
-| 3       | SIM             | 4                    | 36.21 segundos                          |
+| 1       | SIM             | 5                    | 12.7 segundos                          |
+| 2       | SIM             | 5                    | 21.6 segundos                          |
+| 3       | SIM             | 4                    | 18.4 segundos                          |
 |  |  |  |  |
-| **Média**     | 100%           | 4.67                | 30.05 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
+| **Média**     | 100%           | 4.67                | 17,56 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 4.6 segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Comentários dos usuários: Interface simples e objetiva após acessar a página de cadastro.
+Cenário 3: Você é uma pessoa que deseja logar em sua conta no site do gestor de tempo, não sendo direcionado a página de login após o cadastro.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    | 17.6 segundos                          |
+| 2       | SIM             | 4                    | 11.3 segundos                          |
+| 3       | SIM             | 4                    | 16.5 segundos                          |
+|  |  |  |  |
+| **Média**     | 100%           | 4.33                | 15,13 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 6.8 segundos |
+
+
+    Comentários dos usuários: Mesmo comentário do primeiro cenário. Site pouco intuitivo. Falta um botão de entrar ou login. 
+
+
+   
 
 ## Avaliação dos Testes de Usabilidade
 
