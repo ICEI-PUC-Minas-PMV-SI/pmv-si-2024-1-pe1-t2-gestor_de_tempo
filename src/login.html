@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="login.css">
+    <script>
+        function login() {
+            const email = document.getElementById('email').value;
+            const senha = document.getElementById('senha').value;
+
+            const usuario = JSON.parse(localStorage.getItem('usuario'));
+
+            if (!usuario) {
+                alert('Nenhum usuário cadastrado encontrado');
+                return;
+            }
+
+            if (usuario.email === email && usuario.senha === senha) {
+                alert('Login realizado com sucesso!');
+                window.location.href = 'cadastrar_tarefas.html';
+            } else {
+                alert('Email ou senha incorretos');
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <nav>
+        <div id="trespontos">
+            <img src="../imagens/icone (1).png" alt="" srcset="">
+            <div id="dropdown-menu">
+                <a href="../index.html">Home</a>
+                <a href="cadastro.html">Cadastrar</a>
+                <a href="login.html">Login</a>
+            </div>
+        </div>
+        <a href="../index.html" id="logo">
+            <img src="../imagens/logo.png" alt="logo" width="100px">
+        </a>
+        <a href="informacoes_cadastrais.html" id="engrenagem">
+            <img src="../imagens/icone (2).png" alt="Engrenagem" width="100px">
+        </a>
+    </nav>
+    <main>
+        <h1>Faça login para continuar</h1>
+
+        <div class="caixa_texto">
+            <p>EMAIL</p>
+            <input type="email" name="email" id="email">
+        </div>
+
+        <div class="caixa_texto">
+            <p>SENHA</p>
+            <input type="password" name="senha" id="senha">
+        </div>
+
+        <div class="botao">
+            <input type="button" value="ENTRAR" class="btn" onclick="login()">
+        </div>
+
+        <p class="direcionador"><a href="recuperar_senha.html">Esqueceu sua senha?</a></p>
+    </main>
+</body>
+</html>
