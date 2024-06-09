@@ -54,13 +54,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001|Deve existir uma página inicial (landing page) informativa que apresenta o propósito da plataforma e metodologia utilizada | ALTA |  
 |RF-002| A aplicação deve permitir que os usuários se cadastrem. | ALTA | 
 |RF-003| A aplicação deve fornecer um sistema de autenticação seguro, permitindo que os usuários acessem suas contas por meio de um processo de login. | ALTA | 
-|RF-004| A aplicação deve oferecer um processo de recuperação de senha, permitindo que usuários redefinam suas senhas em caso de esquecimento ou perda. | ALTA | 
-|RF-005| A aplicação deve permitir que os usuários cadastrem suas tarefas estipulando graus de prioridade | ALTA | 
-|RF-006| A aplicação deve permitir que os usuários cadastrem suas tarefas estipulando prazo para conclusão | ALTA |
-|RF-007| A aplicação deve permitir que os usuários cadastrem ou excluam suas tarefas. | ALTA | 
-|RF-008| A aplicação deve permitir que os usuários vejam e administrem suas tarefas, podendo filtrar por status "Em aberto" | ALTA | 
-|RF-009| A aplicação deve permitir que os usuários vejam e administrem suas tarefas, podendo filtrar por status "Em atraso" | ALTA |
-|RF-010| A aplicação deve permitir que os usuários vejam e administrem suas tarefas, podendo filtrar por status "Finalizado" | ALTA | 
+|RF-004| A aplicação deve oferecer um processo de recuperação de senha, permitindo que usuários redefinam suas senhas em caso de esquecimento ou perda. | MÉDIA | 
+|RF-005| A aplicação deve permitir que os usuários cadastrem suas tarefas estipulando graus de prioridade | MÉDIA | 
+|RF-006| A aplicação deve permitir que os usuários cadastrem suas tarefas estipulando prazo para conclusão | MÉDIA |
+|RF-007| A aplicação deve permitir que os usuários cadastrem ou excluam suas tarefas. | MÉDIA | 
+|RF-008| A aplicação deve permitir que os usuários vejam e administrem suas tarefas, podendo filtrar por status "Em aberto" | MÉDIA | 
+|RF-009| A aplicação deve permitir que os usuários vejam e administrem suas tarefas, podendo filtrar por status "Em atraso" | MÉDIA |
+|RF-010| A aplicação deve permitir que os usuários vejam e administrem suas tarefas, podendo filtrar por status "Finalizado" | MÉDIA | 
 |RF-011| A aplicação deve permitir que os usuários gerenciem suas informações de perfil como: alterar os dados a qualquer momento. | MÉDIA | 
 |RF-012| A aplicação deve permitir que os usuários gerenciem suas informações de perfil como: excluir os dados a qualquer momento. | MÉDIA |
 |RF-013| A aplicação deve permitir que os usuários gerenciem suas informações de perfil como: consultar os dados a qualquer momento. | MÉDIA |
