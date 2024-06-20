@@ -10,11 +10,9 @@
 
 ## Integrantes
 
-* Felipe Alexsander Peixoto de Avelar
+
 * João Vitor Victorazzi
-* Lucas Marques Zica
-* Vinicius Alexandre Gomes de Carvalho
-* Rudolf Fischer Günther
+
 
 ## Orientador
 
