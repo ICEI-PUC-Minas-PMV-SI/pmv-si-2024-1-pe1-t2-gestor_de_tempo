@@ -1,29 +1,18 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title:
+title: Gestor do tempo
 authors:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - name-suffix: Professor XXXX
+  - family-names: Victorazzi
+    given-names: João Vitor
+  
+  - name-suffix: Professora
     affiliation: PUC Minas
-    family-names:
-    given-names:
+    family-names: De Nardin
+    given-names: Luciana
 keywords:
-  -
-  -
-repository-code:
+  - Gestor
+  - Tempo
+repository-code: https://icei-puc-minas-pmv-si.github.io/pmv-si-2024-1-pe1-t2-gestor_de_tempo/
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2023-06-30
