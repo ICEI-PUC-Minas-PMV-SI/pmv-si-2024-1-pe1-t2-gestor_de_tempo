@@ -4,8 +4,7 @@ title: Gestor do tempo
 authors:
   - family-names: Victorazzi
     given-names: João Vitor
-  
-  - name-suffix: Professora
+    - name-suffix: Professora
     affiliation: PUC Minas
     family-names: De Nardin
     given-names: Luciana
@@ -15,4 +14,4 @@ keywords:
 repository-code: https://icei-puc-minas-pmv-si.github.io/pmv-si-2024-1-pe1-t2-gestor_de_tempo/
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2023-06-30
+date-released: 2024/06/24
